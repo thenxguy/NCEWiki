@@ -18,25 +18,25 @@
 		}
 
 		a:link {
-			color: #45C0EC;
+			color: #fc0303;
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:visited {
-			color: #45C0EC;
+			color: #fc0303;
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:hover {
-			color: #4AB7FF;
+			color: #fc0303;
 			background-color: transparent;
 			text-decoration: none;
 		}
 
 		a:active {
-			color: #4AB7FF;
+			color: #fc0303;
 			background-color: transparent;
 			text-decoration: none;
 		}
@@ -202,4 +202,4 @@
 			clear: both;
 		}
 
-		/* Website Version 1.54 - THENXGUY */
+		/* Website Version 1.54 - NEOSKI */
